@@ -1,10 +1,11 @@
 # citegen
 ### A simple, Markdown XL compatible CLI citation machine for academic writing. (Specifically, mine.)<br /><br />
 
-#### The objective is to build a citation machine that does three things: <br />
+#### The objective is to build a citation machine that does three (potentially four) things: <br />
 1. Add a new citation to a text file. <br />
 2. Retrieve an existing citation from a text file using a search function. <br />
-3. Create an in-text version of an existing citation. <br /><br />
+3. Create an in-text version of an existing citation. <br />
+4. [TBC] Import a citation from another source and check that it is formatted correctly.<br />
 
 #### There are plenty of more sophsticated citation machines out there. The reason for keeping it simple and CLI-based is: <br />
 1. Web-based interfaces like RefWorks are either horrible to use or excessively complicated. <br />
